@@ -59,7 +59,7 @@ In a world flooded with information, being able to **detect false or misleading 
 
 ## 🤝 Let's Connect
 
-If you find this project interesting or useful, feel free to ⭐️ the repo and connect with me on [LinkedIn](https://www.linkedin.com).
+If you find this project interesting or useful, feel free to ⭐️ the repo and connect with me on [LinkedIn](www.linkedin.com/in/a-nishanth).
 
 ---
 
